@@ -247,7 +247,7 @@ img:hover {
 .header__nav .nav__buttons_call:hover::after {
   position: absolute;
   width: max-content;
-  content: "+1 234 5555-55-55";
+  content: "+380 93 378 9883";
   font-weight: 700;
   font-size: 0.75rem;
   color: #fff;
